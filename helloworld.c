@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 void main(){
-	printf("hello wordl"\n);
+	printf("이나영빡대가리\n");
 }
 //날짜
